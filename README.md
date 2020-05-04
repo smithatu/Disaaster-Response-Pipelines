@@ -46,12 +46,8 @@ In the **data** and **models** folder you can find everything that is required t
 <a name="screenshots"></a>
 ## Screenshots
 1. You can type a message to classify in the space provided. Example as shown below.
-![Sample Input](https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot1.png)
-2. After clicking **Classify Message**, you can see the categories which the message belongs to, highlighted in green
-![Sample Output](https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot2.png)
-3. Below are some visualizations from the data
-![Main Page](https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot3.png)
-![Main Page](https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot4.png)
+![Sample_input(https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot2.png)
+
 
 
 

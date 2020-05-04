@@ -48,10 +48,13 @@ In the **data** and **models** folder you can find everything that is required t
 1. You can type a message to classify in the space provided. Example as shown below.
 ![Sample_input](screenshots/Screenshot1.PNG)
 2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
-![Sample Output](screenshots/screenshot2.PNG)
+
+![Sample Output](screenshots/Screenshot2.PNG)
 3. The main page shows some graphs about training dataset, provided by Figure Eight
-![Main Page1](screenshots/screenshot3.PNG)
-![Main Page1](screenshots/screenshot4.PNG)
+
+![Main Page1](screenshots/Screenshot3.PNG)
+
+![Main Page1](screenshots/Screenshot4.PNG)
 
 
 

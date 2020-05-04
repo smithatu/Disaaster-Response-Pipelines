@@ -46,7 +46,7 @@ In the **data** and **models** folder you can find everything that is required t
 <a name="screenshots"></a>
 ## Screenshots
 1. You can type a message to classify in the space provided. Example as shown below.
-![Sample_input(https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot2.png)
+![Sample_input](https://github.com/smithatu/Disaster-Response-Pipelines/tree/master/screenshots/screenshot2.png)
 
 
 

@@ -45,6 +45,13 @@ In the **data** and **models** folder you can find everything that is required t
 * [Figure Eight](https://www.figure-eight.com/) for providing the datasets
 <a name="screenshots"></a>
 ## Screenshots
+1. You can type a message to classify in the space provided. Example as shown below.
+![Sample Input](screenshots/screenshot1.png)
+2. After clicking **Classify Message**, you can see the categories which the message belongs to, highlighted in green
+![Sample Output](screenshots/screenshot2.png)
+3. Below are some visualizations from the data
+![Main Page](screenshots/screenshot3.png)
+![Main Page](screenshots/screenshot4.png)
 
 
 

@@ -5,8 +5,9 @@
 2. [Requirements](#requirements)
 3. [Executing Program](#executing)
 4. [Materials](#materials)
-4. [Acknowledgement](#acknowledgement)
-6. [Screenshots](#screenshots)
+5. [Acknowledgement](#acknowledgement)
+6. [Github Link](#githublink)
+7. [Screenshots](#screenshots)
 <a name="descripton"></a>
 ## Description
 This project is a part of Udacity DataScience Nano degree program to classify disaster response messages through machine learning
@@ -43,6 +44,9 @@ In the **data** and **models** folder you can find everything that is required t
 ## Acknowledgements
 * [Udacity](https://www.udacity.com/) for providing such a wonderful project
 * [Figure Eight](https://www.figure-eight.com/) for providing the datasets
+## Github Link
+<a name="githublink"></a>
+https://github.com/smithatu/Disaster-Response-Pipelines
 <a name="screenshots"></a>
 ## Screenshots
 1. You can type a message to classify in the space provided. Example as shown below.
